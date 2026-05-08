@@ -1,0 +1,5 @@
+[base]
+name=centos8-base-aliyun
+baseurl=https://mirrors.aliyun.com/centos-vault/8.5.2111/BaseOS/x86_64/os/
+enabled=1
+gpgcheck=0
